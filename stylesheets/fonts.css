@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../fonts/OpenSans-Regular.ttf")  format('truetype'),
+    url('../fonts/OpenSans-Regular.woff') format('woff');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "OpenSans-Blood";
+    src: url("../fonts/OpenSans-Bold.ttf")  format('truetype'),
+    url('../fonts/OpenSans-Bold.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "OpenSans-ExtraBlood";
+    src: url("../fonts/OpenSans-ExtraBold.ttf")  format('truetype'),
+    url('../fonts/OpenSans-ExtraBold.woff') format('woff');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "OpenSans-Light";
+    src: url("../fonts/OpenSans-Light.ttf")  format('truetype'),
+    url('../fonts/OpenSans-Light.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "OpenSans-italic";
+    src: url("../fonts/OpenSans-Italic.ttf")  format('truetype'),
+    url('../fonts/OpenSans-Italic.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "OpenSans-Lightitalic";
+    src: url("../fonts/OpenSans-LightItalic.ttf")  format('truetype'),
+    url('../fonts/OpenSans-LightItalic.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "OpenSans-Blooditalic";
+    src: url("../fonts/OpenSans-BoldItalic.ttf")  format('truetype'),
+    url('../fonts/OpenSans-BoldItalic.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "OpenSans_SemiCondensed-BoldItalic";
+    src: url("..fonts/OpenSans_SemiCondensed-BoldItalic.ttf")  format('truetype'),
+    url('../fonts/OpenSans_SemiCondensed-BoldItalic.ttf') format('woff');
+    font-style: normal;
+  }
+
+ @font-face {
+  font-family: "OpenSans_Condensed-Italic";
+  src: url(../fonts/OpenSans_Condensed-Italic.ttf) format('truetype'),
+  url('../fonts/OpenSans_Condensed-Italic.woff') format('woff');
+  font-style: normal;
+ }
+
+ @font-face {
+  font-family: "OpenSans_OpenSans_Condensed-Regular";
+  src: url(../fonts/OpenSans_Condensed-Regular.ttf) format('truetype'),
+  url('../fonts/OpenSans_Condensed-Regular.woff') format('woff');
+  font-style: normal;
+ }
+
+ @font-face {
+  font-family: "OpenSans_Condensed-Bold";
+  src: url(../fonts/OpenSans_Condensed-Bold.ttf) format('truetype'),
+  url('../fonts/OpenSans_Condensed-Bold.woff') format('woff');
+  font-style: normal;
+ }
